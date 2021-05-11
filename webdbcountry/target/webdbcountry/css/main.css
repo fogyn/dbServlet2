@@ -1,0 +1,14 @@
+body {
+    background-color: aqua;
+}
+.col a{
+    height: 48px;
+}
+.col p {
+    display: flex;
+    height: 48px;
+    justify-content: center;
+    align-items: center;
+    background-color: orangered;
+
+}

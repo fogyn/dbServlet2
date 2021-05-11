@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="webdbcountry:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="webdbcountry.war">
+      <element id="artifact" artifact-name="webdbcountry:war exploded" />
+    </root>
+  </artifact>
+</component>

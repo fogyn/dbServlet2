@@ -1,0 +1,10 @@
+form {
+    border: 2px solid blue;
+}
+.sub {
+    width: 320px;
+}
+.name2 {
+    display: flex;
+    justify-content: center;
+}
